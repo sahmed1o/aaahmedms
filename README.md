@@ -5,6 +5,8 @@
 
 📍 Canada
 
+Largely doing research in biometric authentication.
+
 ### Personal Portfolio:
 shail1o.github.io/Web-Portf
 
