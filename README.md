@@ -1,4 +1,10 @@
-### 
+### Bio
+🏢 Market Analyst • Information Security Specialist
+💻 Programmer • Software Dev
+📍 Canada
+
+Person Portfolio:
+shail1o.github.io/Web-Portf
 
 <!--
 **shail1o/shail1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
