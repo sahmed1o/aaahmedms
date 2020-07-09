@@ -5,7 +5,7 @@
 
 📍 Canada
 
-Currently researching in biometric authentication.
+Currently researching biometric authentication.
 
 ### Personal Portfolio:
 https://shail1o.github.io/Web-Portf/
