@@ -1,7 +1,7 @@
 ### Bio
-🏢 Market Analyst • Information Security Specialist
-💻 Programmer • Software Dev
-📍 Canada
+-🏢 Market Analyst • Information Security Specialist
+-💻 Programmer • Software Dev
+-📍 Canada
 
 Person Portfolio:
 shail1o.github.io/Web-Portf
