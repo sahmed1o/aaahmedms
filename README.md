@@ -1,4 +1,4 @@
-### Bio
+### Bio:
 🏢 Market Analyst • Information Security Specialist
 
 💻 Programmer • Software Dev
