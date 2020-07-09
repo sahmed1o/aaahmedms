@@ -8,7 +8,7 @@
 Largely doing research in biometric authentication.
 
 ### Personal Portfolio:
-shail1o.github.io/Web-Portf
+https://shail1o.github.io/Web-Portf/
 
 <!--
 **shail1o/shail1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
