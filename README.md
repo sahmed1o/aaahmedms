@@ -1,5 +1,7 @@
-### Bio:
+
 <hr>
+
+### Bio:
 🏢 Market Analyst • Encryption Specialist
 
 💻 Programmer • Software Dev
