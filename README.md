@@ -10,6 +10,7 @@ Currently researching biometric authentication.
 
 <hr>
 ### Personal Portfolio:
+
 https://shail1o.github.io/Web-Portf/
 
 <!--
