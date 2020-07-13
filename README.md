@@ -1,4 +1,5 @@
 ### Bio:
+<hr>
 🏢 Market Analyst • Encryption Specialist
 
 💻 Programmer • Software Dev
@@ -7,6 +8,7 @@
 
 Currently researching biometric authentication.
 
+<hr>
 ### Personal Portfolio:
 https://shail1o.github.io/Web-Portf/
 
