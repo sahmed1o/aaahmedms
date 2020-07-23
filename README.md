@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Market Analyst • Encryption Specialist
+🏢 Market Analyst • Security Researcher
 
 💻 Programmer • Software Dev
 
