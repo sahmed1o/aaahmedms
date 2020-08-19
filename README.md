@@ -8,7 +8,7 @@
 
 📍 Canada
 
-Currently researching biometric authentication.
+Currently researching biometric authentication systems for hardware.
 
 <hr>
 
