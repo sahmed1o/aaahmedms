@@ -8,7 +8,7 @@
 
 📍 Canada
 
-Currently researching biometric authentication solutions for hardware devices.
+Researching biometric authentication solutions for hardware devices.
 
 <hr>
 
