@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Market Researcher • Security Analyst
+🏢 Market Researcher • Coder
 
 💻 Programmer • Software Dev
 
