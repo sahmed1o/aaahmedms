@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Market Researcher • Coder
+🏢 Researcher • Coder
 
 💻 Programmer • Software Dev
 
