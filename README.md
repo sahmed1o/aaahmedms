@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Researcher • Coder
+🏢 Analyst • Coder
 
 💻 Programmer • Software Dev
 
