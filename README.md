@@ -8,7 +8,7 @@
 
 📍 Canada
 
-Researching the implementation of A.I. and Machine Learning for general use devices.
+Implementing open source biometrics for general use devices.
 
 <hr>
 
