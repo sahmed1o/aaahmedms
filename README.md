@@ -10,8 +10,6 @@
 
 You can find all my open source work here.
 
-Currently researching machine learning for general use devices. 
-
 <hr>
 
 ### Personal Portfolio & Bio:
