@@ -8,7 +8,6 @@
 
 📍 Canada
 
-Researching machine learning for general use devices.
 
 <hr>
 
