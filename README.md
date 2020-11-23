@@ -8,7 +8,7 @@
 
 📍 Canada
 
-Researching biometric authentication solutions for hardware devices.
+Researching the implementation of A.I. and Machine Learning for general use devices.
 
 <hr>
 
