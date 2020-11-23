@@ -8,6 +8,7 @@
 
 📍 Canada
 
+Topics of interest are largely machine learning and biometric authentication. 
 
 <hr>
 
