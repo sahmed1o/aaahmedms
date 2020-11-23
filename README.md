@@ -8,7 +8,9 @@
 
 📍 Canada
 
-Currently researching machine learning for general use devices. You can find all my open source work here.
+You can find all my open source work here.
+
+Currently researching machine learning for general use devices. 
 
 <hr>
 
