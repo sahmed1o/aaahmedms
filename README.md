@@ -8,7 +8,7 @@
 
 📍 Canada
 
-Implementing open source biometrics for general use devices.
+Researching biometrics for general use devices.
 
 <hr>
 
