@@ -8,7 +8,7 @@
 
 📍 Canada
 
-Researching biometrics for general use devices.
+Researching machine learning for general use devices.
 
 <hr>
 
