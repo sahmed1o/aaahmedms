@@ -8,7 +8,7 @@
 
 📍 Canada
 
-You can find all my open source work here.
+You can find all my open source projects here.
 
 <hr>
 
