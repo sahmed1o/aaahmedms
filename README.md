@@ -4,7 +4,7 @@
 ### Bio:
 🏢 Analyst • Coder
 
-💻 Pentester • Scientist
+💻 software Dev • Scientist
 
 📍 Canada
 
