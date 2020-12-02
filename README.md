@@ -4,7 +4,7 @@
 ### Bio:
 🏢 Analyst • Coder
 
-💻 Dev • Scientist
+💻 Developer • Scientist
 
 📍 Canada
 
