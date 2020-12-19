@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Analyst • Coder
+🏢 Analyst • Coder • Pentester
 
 💻 Scientist
 
