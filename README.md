@@ -2,9 +2,11 @@
 <hr>
 
 ### Bio:
-🏢 Analyst • Coder • Pentester • Stock Trader
+🏢 Analyst • Coder • Pentester
 
 💻 Scientist
+
+📈 Stock Trader
 
 📍 Canada
 
