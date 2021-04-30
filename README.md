@@ -6,8 +6,6 @@
 
 💻 Scientist
 
-📈 Stock Trader
-
 📍 Canada
 
 All of my open source work can be found here.
