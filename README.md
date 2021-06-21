@@ -4,8 +4,6 @@
 ### Bio:
 🏢 Analyst • Coder • Pentester
 
-💻 Scientist
-
 📍 Canada
 
 All of my open source work can be found here.
