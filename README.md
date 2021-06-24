@@ -3,7 +3,7 @@
 
 ### Bio:
 🏢 Analyst • Coder • Pentester
-
+💻 Specialized in Back-End Development
 📍 Canada
 
 All of my open source work can be found here.
