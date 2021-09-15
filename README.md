@@ -6,7 +6,7 @@
 
 💻 Specialized in Data Analysis and Back-End Development
 
-🌐 Previously a Pentester
+🌐 Previously a SysAdmin and Pentester
 
 📍 Canada
 
