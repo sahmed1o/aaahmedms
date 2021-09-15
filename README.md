@@ -4,9 +4,9 @@
 ### Bio:
 🏢 Analyst • Coder
 
-💻 Specialized in data analysis and back-end development
+💻 Specialized in Data Analysis and Back-End Development
 
-🌐 Previously a SysAdmin and Pentester
+🌐 Previously SysAdmin and Pentester
 
 📍 Canada
 
