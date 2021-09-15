@@ -2,9 +2,11 @@
 <hr>
 
 ### Bio:
-🏢 Analyst • Coder • Pentester
+🏢 Analyst • Coder
 
 💻 Specialized in Back-End Development
+
+🌐 Previously a Pentester
 
 📍 Canada
 
