@@ -6,7 +6,7 @@
 
 💻 Specialized in Back-End Development
 
-🌐 Previously Pentester and SysAdmin
+🌐 Previously Data Security and SysAdmin
 
 📍 Canada
 
