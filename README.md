@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Analyst • Coder
+🏢 Data Scientist • Coder
 
 💻 Specialized in Back-End Development
 
