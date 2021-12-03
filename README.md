@@ -6,7 +6,7 @@
 
 💻 Focused on Data Analysis and Predictive Analytics
 
-🌐 Specialized in Back-End Development
+🌐 Specialized in Back-End Development and Data Security
 
 📍 Canada
 
