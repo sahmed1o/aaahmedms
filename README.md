@@ -4,9 +4,9 @@
 ### Bio:
 🏢 Data Scientist • Coder
 
-💻 Specialized in Back-End Development
+💻 Experienced in Data Analysis and Predictive Analytics
 
-🌐 Experienced in Data Analysis and Predictive Analytics
+🌐 Specialized in Back-End Development
 
 📍 Canada
 
