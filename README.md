@@ -4,7 +4,7 @@
 ### Bio:
 🏢 Data Scientist • Coder
 
-💻 Experienced in Data Analysis and Predictive Analytics
+💻 Focused on Data Analysis and Predictive Analytics
 
 🌐 Specialized in Back-End Development
 
