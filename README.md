@@ -6,7 +6,7 @@
 
 💻 Specialized in Back-End Development
 
-🌐 Previously Data Security and SysAdmin
+🌐 Experienced in Data Analysis and Predictive Analytics
 
 📍 Canada
 
