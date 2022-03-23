@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Coder • Software Dev 
+🏢 Coder • Retail Investor • Software Dev 
 
 💻 Focused on Data Analysis and Predictive Analytics
 
