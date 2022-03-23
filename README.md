@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Programmer • Data Scientist 
+🏢 Coder • Data Scientist 
 
 💻 Focused on Data Analysis and Predictive Analytics
 
