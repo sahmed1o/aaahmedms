@@ -54,12 +54,13 @@ All of my open source work can be found here
 						</a>  
 						<a href="https://aaahmedms.github.io/Web-Portf/" target="_blank">
 							<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=0CA4BD"/>
+						</a>  
 					</p>
 					 <p>A fingerprint identification system that goes through a process of filtering, to dermine if the users fingerprint matches the fingerprint registered. The final result of the print after removing noise is then feature matched with the registered fingerprint to determine if they are the same.</p>
 				</div>
+			</td>
 	</tr>
 		
-	</table>
 </div>
 
 ### Personal Portfolio & Bio:
