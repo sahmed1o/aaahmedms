@@ -57,7 +57,7 @@ All of my open source work can be found here
 					</p>
 					 <p>A fingerprint identification system that goes through a process of filtering, to dermine if the users fingerprint matches the fingerprint registered. The final result of the print after removing noise is then feature matched with the registered fingerprint to determine if they are the same.</p>
 				</div>
-	<tr>
+	</tr>
 		
 	</table>
 </div>
