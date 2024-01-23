@@ -4,7 +4,7 @@
 ### Bio:
 🏢 Coder • Retail Investor • Software Dev 
 
-💻 Focused on Data Analysis and Predictive Analytics
+💻 Focused on Data Analysis and Cryptography
 
 🌐 Specialized in Back-End Development
 
