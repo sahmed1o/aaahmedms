@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Coder • Retail Investor • Software Dev 
+🏢 Coder • Retail Investor • Open Source Dev 
 
 💻 Focused on Data Analysis and Cryptography
 
