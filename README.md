@@ -2,9 +2,9 @@
 <hr>
 
 ### Bio:
-🏢 Coder • Retail Investor • Open Source Dev 
+🏢 Open Source Dev • IT Tech 
 
-💻 Focused on Data Analysis and Cryptography
+💻 Focused on Technical Design and Cryptography
 
 🌐 Specialized in Back-End Development
 
