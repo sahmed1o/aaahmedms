@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Open Source Dev • IT Tech 
+🏢 Open Source Dev • Information Tech 
 
 💻 Focused on Technical Design and Cryptography
 
