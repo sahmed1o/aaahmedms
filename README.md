@@ -2,7 +2,7 @@
 <hr>
 
 ### Bio:
-🏢 Open Source Dev • Retail Investor 
+🏢 Technology Admin • Retail Investor 
 
 💻 Focused on Technical Design and Technology Administration
 
