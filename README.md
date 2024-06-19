@@ -4,7 +4,7 @@
 ### Bio:
 🏢 Open Source Dev • Information Tech 
 
-💻 Focused on Technical Design and Cryptography
+💻 Focused on Technical Design and Technology Administration
 
 🌐 Specialized in Back-End Development
 
