@@ -4,7 +4,7 @@
 ### Bio:
 🏢 Technology Admin • Retail Investor 
 
-💻 Focused on Technical Design and Administration
+💻 Focused on Technical Design and Hardware
 
 🌐 Specialized in Back-End Development
 
